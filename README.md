@@ -4,6 +4,8 @@
 ## 📂 版本说明
 三个版本都可以正常使用，只是界面和功能侧重点不同：
 - `main/markdown3.py`：✅【最新版】GUI界面，样式更美观，支持自定义壁纸
+<img width="1146" height="721" alt="Screenshot 2026-11-16 234418" src="https://github.com/user-attachments/assets/4322a3fe-7bc1-4ea9-beaa-3bb876fa9336" />
+
 - `simple_version/markdown2.py`：第二版，GUI版本，偏向简洁实用
 - `simple_version/markdown1.py`：初代基础版本，无GUI，极简实用
 
