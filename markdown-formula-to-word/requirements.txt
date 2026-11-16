@@ -1,0 +1,4 @@
+PyQt5>=5.15
+PyQtWebEngine>=5.15
+pypandoc>=1.11
+pyperclip>=1.8
